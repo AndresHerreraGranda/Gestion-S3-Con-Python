@@ -44,8 +44,8 @@ pip install boto3
 
 
 ## BLIBLIOGRAFIA
-[Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/es/s3/)
+_ [Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/es/s3/)
 
-[AWS SDK para Python (Boto3)](https://aws.amazon.com/es/sdk-for-python/)
+- [AWS SDK para Python (Boto3)](https://aws.amazon.com/es/sdk-for-python/)
 
-[Crear un bucket en S3](https://docs.aws.amazon.com/es_es/AmazonS3/latest/dev/UsingBucket.html#create-bucket-intro)
+- [Crear un bucket en S3](https://docs.aws.amazon.com/es_es/AmazonS3/latest/dev/UsingBucket.html#create-bucket-intro)
