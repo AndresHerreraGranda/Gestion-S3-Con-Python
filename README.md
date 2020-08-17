@@ -44,7 +44,7 @@ pip install boto3
 
 
 ## BLIBLIOGRAFIA
-_ [Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/es/s3/)
+- [Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/es/s3/)
 
 - [AWS SDK para Python (Boto3)](https://aws.amazon.com/es/sdk-for-python/)
 
