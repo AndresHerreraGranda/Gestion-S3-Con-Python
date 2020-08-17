@@ -5,10 +5,13 @@ import boto3
 # ==== CREDENCIALES S3 ==== 
 id = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 clave_secreta = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-nombre_bucket = 'XXXXXXXXX'
 
-# ==== DATOS DE DESCARGA ====
+
+# ==== DATOS ARCHIVO A DESCARGAR ====
+nombre_bucket = 'XXXXXXXXX'
 archivo = 'XXXXXX.jpg'
+
+# ==== RUTA DE DESCARGA ====
 ruta = 'XXXXXXXX\XXXXXXXXXX\XXXXXXXXXX'
 
 # ==== FUNCION ====
