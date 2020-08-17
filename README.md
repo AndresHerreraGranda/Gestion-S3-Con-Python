@@ -23,3 +23,15 @@ Una vez ingrese en su consala de administración continue con los siguientes pas
   - Para crear una nueva clave de acceso, haga clic en el botón 'Crear clave de acceso'.
   
   - Descargue el archivo .csv que contiene su clave de acceso . Manténgalo seguro.
+  
+### 2. Instale el SKD Boto3
+
+Se utilizar el paquete de instalación de python **PIP**, se debe asegurar que este actualizado:
+```
+python -m pip install --upgrade pip
+```
+
+Se instala [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html#installation):
+```
+pip install boto3
+```
